@@ -1,0 +1,330 @@
+[
+  {
+    "province_id": 1,
+    "name": "Metro Manila"
+  },
+  {
+    "province_id": 2,
+    "name": "Ilocos Norte"
+  },
+  {
+    "province_id": 3,
+    "name": "Ilocos Sur"
+  },
+  {
+    "province_id": 4,
+    "name": "La Union"
+  },
+  {
+    "province_id": 5,
+    "name": "Pangasinan"
+  },
+  {
+    "province_id": 6,
+    "name": "Batanes"
+  },
+  {
+    "province_id": 7,
+    "name": "Cagayan"
+  },
+  {
+    "province_id": 8,
+    "name": "Isabela"
+  },
+  {
+    "province_id": 9,
+    "name": "Nueva Vizcaya"
+  },
+  {
+    "province_id": 10,
+    "name": "Quirino"
+  },
+  {
+    "province_id": 11,
+    "name": "Bataan"
+  },
+  {
+    "province_id": 12,
+    "name": "Bulacan"
+  },
+  {
+    "province_id": 13,
+    "name": "Nueva Ecija"
+  },
+  {
+    "province_id": 14,
+    "name": "Pampanga"
+  },
+  {
+    "province_id": 15,
+    "name": "Tarlac"
+  },
+  {
+    "province_id": 16,
+    "name": "Zambales"
+  },
+  {
+    "province_id": 17,
+    "name": "Aurora"
+  },
+  {
+    "province_id": 18,
+    "name": "Batangas"
+  },
+  {
+    "province_id": 19,
+    "name": "Cavite"
+  },
+  {
+    "province_id": 20,
+    "name": "Laguna"
+  },
+  {
+    "province_id": 21,
+    "name": "Quezon"
+  },
+  {
+    "province_id": 22,
+    "name": "Rizal"
+  },
+  {
+    "province_id": 23,
+    "name": "Marinduque"
+  },
+  {
+    "province_id": 24,
+    "name": "Occidental Mindoro"
+  },
+  {
+    "province_id": 25,
+    "name": "Oriental Mindoro"
+  },
+  {
+    "province_id": 26,
+    "name": "Palawan"
+  },
+  {
+    "province_id": 27,
+    "name": "Romblon"
+  },
+  {
+    "province_id": 28,
+    "name": "Albay"
+  },
+  {
+    "province_id": 29,
+    "name": "Camarines Norte"
+  },
+  {
+    "province_id": 30,
+    "name": "Camarines Sur"
+  },
+  {
+    "province_id": 31,
+    "name": "Catanduanes"
+  },
+  {
+    "province_id": 32,
+    "name": "Masbate"
+  },
+  {
+    "province_id": 33,
+    "name": "Sorsogon"
+  },
+  {
+    "province_id": 34,
+    "name": "Aklan"
+  },
+  {
+    "province_id": 35,
+    "name": "Antique"
+  },
+  {
+    "province_id": 36,
+    "name": "Capiz"
+  },
+  {
+    "province_id": 37,
+    "name": "Iloilo"
+  },
+  {
+    "province_id": 38,
+    "name": "Negros Occidental"
+  },
+  {
+    "province_id": 39,
+    "name": "Guimaras"
+  },
+  {
+    "province_id": 40,
+    "name": "Bohol"
+  },
+  {
+    "province_id": 41,
+    "name": "Cebu"
+  },
+  {
+    "province_id": 42,
+    "name": "Negros Oriental"
+  },
+  {
+    "province_id": 43,
+    "name": "Siquijor"
+  },
+  {
+    "province_id": 44,
+    "name": "Eastern Samar"
+  },
+  {
+    "province_id": 45,
+    "name": "Leyte"
+  },
+  {
+    "province_id": 46,
+    "name": "Northern Samar"
+  },
+  {
+    "province_id": 47,
+    "name": "Samar"
+  },
+  {
+    "province_id": 48,
+    "name": "Southern Leyte"
+  },
+  {
+    "province_id": 49,
+    "name": "Biliran"
+  },
+  {
+    "province_id": 50,
+    "name": "Zamboanga del Norte"
+  },
+  {
+    "province_id": 51,
+    "name": "Zamboanga del Sur"
+  },
+  {
+    "province_id": 52,
+    "name": "Zamboanga Sibugay"
+  },
+  {
+    "province_id": 53,
+    "name": "Bukidnon"
+  },
+  {
+    "province_id": 54,
+    "name": "Camiguin"
+  },
+  {
+    "province_id": 55,
+    "name": "Lanao del Norte"
+  },
+  {
+    "province_id": 56,
+    "name": "Misamis Occidental"
+  },
+  {
+    "province_id": 57,
+    "name": "Misamis Oriental"
+  },
+  {
+    "province_id": 58,
+    "name": "Davao del Norte"
+  },
+  {
+    "province_id": 59,
+    "name": "Davao del Sur"
+  },
+  {
+    "province_id": 60,
+    "name": "Davao Oriental"
+  },
+  {
+    "province_id": 61,
+    "name": "Davao de Oro"
+  },
+  {
+    "province_id": 62,
+    "name": "Davao Occidental"
+  },
+  {
+    "province_id": 63,
+    "name": "Cotabato"
+  },
+  {
+    "province_id": 64,
+    "name": "South Cotabato"
+  },
+  {
+    "province_id": 65,
+    "name": "Sultan Kudarat"
+  },
+  {
+    "province_id": 66,
+    "name": "Sarangani"
+  },
+  {
+    "province_id": 67,
+    "name": "Abra"
+  },
+  {
+    "province_id": 68,
+    "name": "Benguet"
+  },
+  {
+    "province_id": 69,
+    "name": "Ifugao"
+  },
+  {
+    "province_id": 70,
+    "name": "Kalinga"
+  },
+  {
+    "province_id": 71,
+    "name": "Mountain Province"
+  },
+  {
+    "province_id": 72,
+    "name": "Apayao"
+  },
+  {
+    "province_id": 73,
+    "name": "Basilan"
+  },
+  {
+    "province_id": 74,
+    "name": "Lanao del Sur"
+  },
+  {
+    "province_id": 75,
+    "name": "Maguindanao"
+  },
+  {
+    "province_id": 76,
+    "name": "Sulu"
+  },
+  {
+    "province_id": 77,
+    "name": "Tawi-Tawi"
+  },
+  {
+    "province_id": 78,
+    "name": "Agusan del Norte"
+  },
+  {
+    "province_id": 79,
+    "name": "Agusan del Sur"
+  },
+  {
+    "province_id": 80,
+    "name": "Surigao del Norte"
+  },
+  {
+    "province_id": 81,
+    "name": "Surigao del Sur"
+  },
+  {
+    "province_id": 82,
+    "name": "Dinagat Islands"
+  }
+]
